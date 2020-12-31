@@ -1,0 +1,77 @@
+<html>
+    <title>RESUME</title>
+    <head>
+          <center> <h1> SHUBHAM KRISHNAKANT CHOUBE</h1></center>
+          <center> <h2> MECHANICAL ENGINEER </h2></center>
+          <center> <h3> Email Id : shubham.choube90@gmail.com</h3></center>
+          <center> <h3> Mob.No. :8830205893 </h3></center>
+          <img src="Profile Photo.jpg" width="200"  height="200" style="vertical-align:right" style="border: 1px; ">
+          <link rel="resumestyle" type="text/css" href="">
+    </head>
+<body bgcolor="aquamarine">
+<hr> <center><h2 style="background-color: cadetblue;">QUALIFICATIONS</h2></center>
+
+    <B>BACHELOR OF ENGINEERING</B><BR><DD>
+    MECHANICAL ENGINEERING<BR>
+
+    Bapurao Deshmukh College Of Engineering, Sewagram, Wardha (MH)<BR>
+    CGPA-7.69<BR>
+    AGGREGATE-64.87%<BR></DD>
+            <BR>
+            
+<b>SECONDARY CERTIFICATE</b> <BR><DD>
+HSC<BR>
+New English Jr. College, Wardha (MH)<BR>
+73.38%<BR></DD>
+    <BR>
+    <b> SECONDARY SCHOOL CERTIFICATE</b><BR><DD>
+SSC<BR>
+Agragami High School, Wardha<BR>
+85.60% <BR></DD>
+</DD>
+<HR>
+  <center> <H2 style="background-color: cadetblue;">AWARDS AND ACHIEVEMENTS</H2></center>
+   <DD>
+<LI>Successfully submitted projects to client within constrained time period</LI><BR>
+<LI>Best paper award at AME national level conference in 2015.</LI><BR>
+ <LI>Awarded with 2nd prize in “Best from Waste” at national level event 2014.</LI><BR>
+<LI> Presented papers at various conferences</LI>.<BR>
+</DD><HR>
+
+<center><H2 style="background-color: cadetblue;">PROJECTS</H2></center>
+<DD>
+    <LI>Venue Management System built on skeleton of LinkedList and OOPs using core JAVA<br> 
+        Application focuses on booking,checking availabilty and cancel venue.
+    </LI>
+<br>
+    <li>
+        Criminal Record Management System built on MySQL made for purpose of<br>
+        managing pending and dismissed records considering police incharge and <br>
+        complainant name and accused name.<br>
+    </li>
+</DD>
+<HR>
+
+<center><h2 style="background-color: cadetblue;">SKILLS</h2></center>
+BACK END : C, C++, PYTHON, JAVA<br> 
+<br>
+DATABASE : MySQL, MONGODB<br>
+<br>
+FRONT END : HTML, CSS, Javascript, REACT, NODE JS, VUE JS, JQUERY, AJAX
+<br>
+
+<hr>
+<center><h2 style="background-color: cadetblue;">KEY STRENGTHS</h2></center>
+<DD>
+    <LI>Team Player</LI>
+    <br>
+    <LI>Quick Learner</LI>
+    <br>
+    <LI>Self Motivated</LI>
+    <br>
+    <LI>Flexible</LI>
+</DD>
+<button type="button" style="background-color: rgb(136, 95, 160);">Download Here!!!</button>
+<select></select>
+</body>
+</html>
